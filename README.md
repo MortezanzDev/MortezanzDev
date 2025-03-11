@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/mortezanzdev/mortezadev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">Hi, I'm Morteza</h1>
 <h3 align="center">A frontend developer from IRAN</h3>
 
